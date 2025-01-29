@@ -5,3 +5,4 @@ anywidget
 plotly
 pandas
 ridgeplot
+matplotlib
