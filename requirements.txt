@@ -1,6 +1,7 @@
 faicons
 shiny
 shinywidgets
+anywidget
 plotly
 pandas
 ridgeplot
